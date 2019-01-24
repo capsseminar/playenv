@@ -1,40 +1,39 @@
-- title: "Remembering Zbigniew Brzezinski"
+- title: 
   url: https://www.fpi.sais-jhu.edu/zbigniew-brzezinski
   image: images/design/Brzezinski_OfficialSAISDocumentary_Title_v3.png
-  excerpt: Graphic Design and Video Editing
   completed: true
   
-- title: SAIS Review of International Affairs
+- title: 
   url: https://www.saisreview.org
   image: images/sais/saisreview_website.PNG
   completed: true
 
-- title: China MEE Budget Reconciliation
+- title: 
   url: https://triviumchina.com/
-  image: images/data_viz/MEE_Budget_vs_Actual.png
+  image: images/data-viz/MEE_Budget_vs_Actual.png
   completed: true
   
-- title: Yali-Yale Research Forum
+- title: 
   url: http://www.yali.hn.cn/
   image: images/yali/YaliFIRELogo_Comparison.jpg
   complete: true
 
-- title: Yale Center Beijing
+- title: 
   url: https://centerbeijing.yale.edu/
   image: images/yale-center-beijing/DSC_9122.JPG.jpg
   completed: true
 
-- title: Virtual Yale-China History Exhibit
+- title: 
   url: Photo property of Yale Center Beijing
   image: images/yale-center-beijing/HuangHistoryWall_ViewB.jpg
   completed: false
 
-- title: Web Strategy and Redesign
+- title: 
   url: http://centerbeijing.yale.edu/facilities-reservations
   image: images/yale-center-beijing/FacilitiesGallery_2.png
   completed: true
 
-- title: SAIS China Studies
+- title: 
   url: https://www.sais-jhu.edu/sites/default/files/JHU_SAIS_Transboundary_Water_Governance_in_the_MRB.pdf
   image: images/sais/mekong_report
   completed: true
