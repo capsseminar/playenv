@@ -2,12 +2,12 @@
 title: Cory J. Combs
 description: Student of China, Energy and Environmental Governance
 url: https://coryjcombs.github.io
-logo: Logo_v1.png                                       # Site logo
+logo: Logo_v1.png                                     # Site logo
 locale: en_US
 
 # Left Block Images
 background:
-  homepage: images/travel/IMG_20160614_163244                           # this image will be shown on homepage's left block
+  homepage: images/travel/IMG_20160614_163244.jpg     # this image will be shown on homepage's left block
   post-list: images/unsplash-image-10.jpg             # this image will be shown on post list page
   default-post: images/unsplash-gallery-image-3.jpg   # this image will be shown when post's front matter doesn't specify any image
 
