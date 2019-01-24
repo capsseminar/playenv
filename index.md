@@ -1,7 +1,7 @@
 ---
 layout: home
 ---
-# Experience student of China, Energy and Environmental Governance
+# Student of China, Energy and Environmental Governance
 
 On this site you will find select research products, along with select projects and writings that demonstrate some of my recent endeavors. The site is a work in progress; please check back soon for further developments!
 
