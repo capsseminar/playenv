@@ -35,7 +35,7 @@ twitter:            coryjcombs
 #facebook:          username
 github:             coryjcombs
 #stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
-linkedin:           www.linkedin.com/in/cory-combs
+linkedin:           cory-combs
 #xing:              username
 #instagram:         username
 #lastfm:            username
@@ -52,7 +52,7 @@ youtube:            Foreign Policy Institute at Johns Hopkins SAIS
 #keybase:           username
 #xmpp:              username@server.com
 #hackernews:        username
-behance:            username
+#behance:            username
 
 # Gems
 gems:
