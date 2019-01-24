@@ -8,6 +8,8 @@ It was ported by [Taylan Tatli](https://taylantatli.github.io/Halve/). I have fo
 
 If you have a question, find a bug, or want to thank Taylan Tatli (please do!), please open an [issue on GitHub](https://github.com/TaylanTatli/Halve/issues/new). The below information, along with much of the above, is retained from the original build for reference.
 
+Also, in case you didn't know, this marks the third iteration of this theme in this particular path: from Vangelis to Taylan to myself. It's a big part of our lives. You know what that means. *Half-Life 3 is confirmed, guys!*
+
 ## Preview   
 ![screenshot of Halve](/images/halve-home-image.png)
 
