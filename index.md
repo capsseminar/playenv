@@ -3,6 +3,6 @@ layout: home
 ---
 # Research. Translation. Explanation.
 
-This is my personal site to share professional products, along with select personal items of interest. It is a work in progress; please check back soon for further developments!
+On this site you will find select research products, along with select projects and writings that demonstrate some of my undertakings to date. The site is a work in progress; please check back soon for further developments!
 
-This site was built on a Jekyll port of [vangeltzo.com](http://vangeltzo.com/) (by [Vangelis Tzortzis](https://github.com/srekoble)).
+*This site was built on a Jekyll port of [vangeltzo.com](http://vangeltzo.com/) (by [Vangelis Tzortzis](https://github.com/srekoble)).*
