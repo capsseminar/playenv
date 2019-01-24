@@ -176,12 +176,13 @@ canvas {
   > li {
     display: inline-block;
     width: calc(100%/3);
+    background: $overlay-color;
     height: 50%;
     border: 5px solid $overlay-color;
     position: relative;
     vertical-align: top;
     float: left;
-    background-size: cover !important;
+    background-size: 100% auto !important;
     &:nth-child(8n+1),
     &:nth-child(8n+2) {
       width: 50%;
@@ -193,7 +194,6 @@ canvas {
     }
     a {
       border: 30px solid transparent;
-      background: rgba(0, 0, 0, 0.3);
       position: absolute;
       top: 0;
       right: 0;
@@ -204,6 +204,9 @@ canvas {
       -ms-transition: background 0.2s linear;
       -o-transition: background 0.2s linear;
       transition: background 0.2s linear;
+      &:hover {
+        background: rgba(0, 0, 0, 0.3);
+      }
       &:hover:after,
       &:hover:before {
         -webkit-transform: scale(1);
