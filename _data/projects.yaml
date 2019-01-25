@@ -10,23 +10,24 @@
 
 - title: 
   url: https://triviumchina.com/
-  image: images/data-viz/MEE_Budget_vs_Actual.png
+  image: images/data-viz/MEE_Financial_Overview_Excerpt.png
+  caption: "Budget analysis of China's Ministry of Ecology and Environment"
   completed: true
   
 - title: 
   url: http://www.yali.hn.cn/
-  image: images/yali/YaliFIRELogo_Comparison.jpg
+  image: images/yali/Gaokao.jpg
   complete: true
 
 - title: 
   url: https://centerbeijing.yale.edu/
-  image: images/yale-center-beijing/DSC_9122.JPG.jpg
+  image: images/yale-center-beijing/HerVillageLaunch.jpg
   completed: true
 
 - title: 
-  url: Photo property of Yale Center Beijing
+  url: 
   image: images/yale-center-beijing/HuangHistoryWall_ViewB.jpg
-  completed: false
+  completed: true
 
 - title: 
   url: http://centerbeijing.yale.edu/facilities-reservations
