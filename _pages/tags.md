@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Tag Archive
-description: "An archive of posts sorted by tag."
+description: "An archive of writings sorted by tag."
 permalink: /tags.html
 ---
 
@@ -18,8 +18,8 @@ permalink: /tags.html
 {% capture this_word %}{{ tags_list[item] | strip_newlines }}{% endcapture %}
    <h2 id="{{ this_word }}" class="tag-heading">{{ this_word }}</h2>
    <ul>
-    {% for post in site.tags[this_word] %}{% if post.title != null %}
-    <li class="entry-title"><a href="{{ site.url }}{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></li>
+    {% for writing in site.tags[this_word] %}{% if writing.title != null %}
+    <li class="entry-title"><a href="{{ site.url }}{{ writing.url }}" title="{{ writing.title }}">{{ writing.title }}</a></li>
     {% endif %}{% endfor %}
   </ul>
 {% endunless %}{% endfor %}
