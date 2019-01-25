@@ -4,11 +4,13 @@ title: China's Fiscal "Federalism"
 excerpt: "Excerpt goes here."
 image: images/other/ShanxiMayor_Inspection.jpg
 categories:
-  - a
-  - b
+  - Commentary
+  - Writing Sample
 tags:
-  - a
-  - b
+  - Economics
+  - Energy
+  - Environment
+  - China
 ---
 
 ## China’s Fiscal “Federalism”
