@@ -176,7 +176,7 @@ canvas {
   > li {
     display: inline-block;
     width: calc(100%/3);
-    background: $overlay-color, rgba(0, 0, 0, 0.3);
+    background: $overlay-color , rgba(0, 0, 0, 0.3);
     height: 50%;
     border: 5px solid $overlay-color;
     position: relative;
@@ -205,7 +205,7 @@ canvas {
       -o-transition: background 0.2s linear;
       transition: background 0.2s linear;
       &:hover {
-        background: rgba(50, 0, 0, 0.4);
+        background: rgba(0, 50, 0, 0.4);
       }
       &:hover:after,
       &:hover:before {
