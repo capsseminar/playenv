@@ -44,7 +44,7 @@
   <link rel="shortcut icon" href="{{ site.url }}/favicon.ico" />
   <!-- CSS -->
   <link rel="stylesheet" type="text/css" href="{{ site.url }}/assets/css/main.css">
-  <!-- Left Block Image for Posts -->
+  <!-- Left Block Image for Writings (formerly Posts - css still refers to posts) -->
   {% if page.image %}
   {% capture image %}{{ page.image }}{% endcapture %}
   {% unless image contains 'http://' or image contains 'https://' %}{% capture image %}{{ site.url }}/{{ image }}{% endcapture %}{% endunless %}
