@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: compress
 title: CV
 description: "Work History"
 permalink: /cv.html
