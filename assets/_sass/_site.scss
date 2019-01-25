@@ -176,7 +176,7 @@ canvas {
   > li {
     display: inline-block;
     width: calc(100%/3);
-    background: $overlay-color , rgba(0, 0, 0, 0.3);
+    background: $overlay-color;
     height: 50%;
     border: 5px solid $overlay-color;
     position: relative;
