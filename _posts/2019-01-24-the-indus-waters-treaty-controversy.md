@@ -17,11 +17,11 @@ tags:
 
 **Cory J. Combs**
 
-Johns Hopkins SAIS\
-Submitted for Course "International Water: Issues and Policies"\
-Professor Winston Yu | Senior Water Resources Specialist, World Bank\
-March 5, 2018\
-Word Count: 1766\
+Johns Hopkins SAIS<br/>
+Submitted for Course "International Water: Issues and Policies"<br/>
+Professor Winston Yu | Senior Water Resources Specialist, World Bank<br/>
+March 5, 2018<br/>
+Word Count: 1766<br/>
 Grade: A
 
 ## Executive Summary
