@@ -1,12 +1,14 @@
 ---
 layout: credits
-title: Three Cheers for the MIT License
+title: "Three Cheers for the MIT License"
 description: "Credits"
-image: images/yale-center-beijing/mmexport1440477545435.jpg
+image: images/travel/mmexport1440477545435.jpg
 permalink: /credits.html
 ---
 
-All images and writing on this site are original products except where explicit attribution is given.<br/>
+All images and writing on this site are original products except where explicit attribution is given. <br />
+
 
 This website was built through GitHub Pages using Jekyll; the base theme is free and open source software licensed under the MIT license. The original version of the theme was developed by <a href="http://vangeltzo.com/" target="_blank">Vangelis Tzortzis</a> and ported for Jekyll by <a href="https://taylantatli.github.io/" target="_blank">Taylan Tatli</a>. The various customizations and recoded portions from Taylan Tatli's version are my own - a way of making a small contribution to something I came across that was leagues above what I created from scratch on my own. Many thanks to Tzortzis and Tatli!
 
+<br />
