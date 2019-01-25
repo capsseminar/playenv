@@ -11,9 +11,9 @@ permalink: /cv.html
 
 ### Degree | Location
 Start date - End Date | GPA
-- Descrip 1
-- Descrip 2
-- Honors
+* Descrip 1
+* Descrip 2
+* Honors
 
 ### Degree | Location
 Start date - End Date | GPA
