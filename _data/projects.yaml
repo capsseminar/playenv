@@ -2,7 +2,7 @@
   url: https://www.fpi.sais-jhu.edu/zbigniew-brzezinski
   image: images/design/Brzezinski_OfficialSAISDocumentary_Title_v3.png
   completed: true
-  
+
 - title: 
   url: https://www.saisreview.org
   image: images/sais/saisreview_website.PNG
@@ -11,6 +11,11 @@
 - title: 
   url: http://centerbeijing.yale.edu/facilities-reservations
   image: images/yale-center-beijing/FacilitiesGallery_2.png
+  completed: true
+
+- title: MEE Budget Reconciliation
+  url: https://triviumchina.com/
+  image: images/data-viz/MEE_Financial_Overview.png
   completed: true
 
 - title: 
@@ -24,12 +29,6 @@
   completed: true
 
 - title: 
-  url: https://triviumchina.com/
-  image: images/data-viz/MEE_Financial_Overview.png
-  caption: "Budget analysis of China's Ministry of Ecology and Environment"
-  completed: true
-
-- title: 
   url: 
   image: images/yale-center-beijing/HuangHistoryWall_ViewB.jpg
   completed: true
@@ -37,4 +36,9 @@
 - title: 
   url: https://www.sais-jhu.edu/sites/default/files/JHU_SAIS_Transboundary_Water_Governance_in_the_MRB.pdf
   image: images/sais/mekong_report.PNG
+  completed: true
+
+- title: 
+  url: 
+  image: images/travel/mmexport1465739901607.jpg
   completed: true
