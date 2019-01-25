@@ -15,11 +15,11 @@ tags:
 
 **Cory J. Combs**
 
-Johns Hopkins SAIS\
-Submitted for Course "Comparative Energy and Environmental Governance"\
-Professor Jonas Nahm | JHU SAIS Assistant Professor of Energy, Resources, and Environment\
-October 17, 2018\
-Word Count: 2060\
+Johns Hopkins SAIS<br/>
+Submitted for Course "Comparative Energy and Environmental Governance"<br/>
+Professor Jonas Nahm | JHU SAIS Assistant Professor of Energy, Resources, and Environment<br/>
+October 17, 2018<br/>
+Word Count: 2060<br/>
 Grade: A
 
 ## China’s Incongruities
