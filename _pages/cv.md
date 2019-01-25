@@ -5,6 +5,8 @@ description: "CV"
 permalink: /cv.html
 ---
 
+Like many, I have spent my life to date working to make ends meet. Like too few, I have had incredible fortune in securing educational opportunities and the support of mentors. Now I pursue a new future, in which my work meets my ends.
+
 ## Education
 
 ### Degree | Location
