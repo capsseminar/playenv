@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The Indus Waters Treaty Controversy"
-excerpt: "Excerpt goes here."
+excerpt: "Pakistan’s response to the present Indus Waters Treaty (IWT) controversy is guided by consideration of three questions: 1) Does the IWT adequately adhere to the key international watercourse management principles of the UN Watercourses Convention? 2) What lessons should be drawn from the 2005 Baglihar dispute regarding the IWT’s continued efficacy? 3) What do the findings on the above imply for Pakistan’s position regarding the IWT: should it be maintained, modified, or abrogated?"
 image: image/
 categories:
   - Research
@@ -13,41 +13,41 @@ tags:
   - Pakistan
 ---
 
-#The Indus Waters Treaty Controversy
+## The Indus Waters Treaty Controversy
 
-Cory J. Combs
+**Cory J. Combs**
 
 SA.680.738: International Water: Issues and Policies
 Professor Winston Yu
 March 5, 2018
 Word Count: 1766
 
-# Executive Summary
+## Executive Summary
 
-Pakistan’s response to the present Indus Waters Treaty (IWT) controversy is guided by consideration of three questions: 1) Does the IWT adequately adhere to the key international watercourse management principles of the UN Watercourses Convention? 2) What lessons should be drawn from the 2005 Baglihar dispute regarding the IWT’s continued efficacy? 3) What do the findings on the above imply for Pakistan’s position regarding the IWT: should it be maintained, modified, or abrogated?On the basis of these considerations, this brief finds that the IWT, while imperfect, embodies the principles and mechanisms most vital for resolution of present conflicts, including obligations of cooperation and transparency, equitable and reasonable participation, and precedent for adaptation regarding dispute resolution. The importance of joint water management is increased by climate change and emerging extreme weather trends, as is reflected in the growing water stress that undergirds current political tensions across the region. The IWT requires amendment to promote more active joint management, including a revision of governance principles. Yet, while domestic politics in both India and Pakistan inhibit cooperation, the IWT provides a reasonable basis for it, and remains the best chance both states have for securing their water needs.
+*Pakistan’s response to the present Indus Waters Treaty (IWT) controversy is guided by consideration of three questions: 1) Does the IWT adequately adhere to the key international watercourse management principles of the UN Watercourses Convention? 2) What lessons should be drawn from the 2005 Baglihar dispute regarding the IWT’s continued efficacy? 3) What do the findings on the above imply for Pakistan’s position regarding the IWT: should it be maintained, modified, or abrogated? On the basis of these considerations, this brief finds that the IWT, while imperfect, embodies the principles and mechanisms most vital for resolution of present conflicts, including obligations of cooperation and transparency, equitable and reasonable participation, and precedent for adaptation regarding dispute resolution. The importance of joint water management is increased by climate change and emerging extreme weather trends, as is reflected in the growing water stress that undergirds current political tensions across the region. The IWT requires amendment to promote more active joint management, including a revision of governance principles. Yet, while domestic politics in both India and Pakistan inhibit cooperation, the IWT provides a reasonable basis for it, and remains the best chance both states have for securing their water needs.*
 
-# Origin and Key Mechanisms of the Indus Waters Treaty
+## Origin and Key Mechanisms of the Indus Waters Treaty
 
 The Indus Water Treaty (IWT) was signed between India and Pakistan in 1960, and cosigned by the World Bank. To address water needs following partition, the IWT divided the six rivers of the Indus river system between India and Pakistan, allocating control and “unrestricted use” of the Sutlej, the Beas and the Ravi to India, and of the Indus, the Jhelum and the Chenab to Pakistan. Annexures provide exceptions in which one state may utilize water resources under the control of the other state. The IWT is primarily the result of negotiations among engineers.
 
 The IWT established the Permanent Indus Commission, a cooperation and information exchange mechanism. It furthermore established progressive procedures for dispute resolution: disagreements are first referred to the Commission as “questions”; failing resolution, they become “differences” to be examined by a Neutral Expert; and should they fall outside a specified domain over which the Neutral Expert has authority, they become “disputes,” to be resolved by an a Court of Arbitration. The World Bank may designate neutral experts and other roles under certain conditions and when requested by either state.
 
-# Controversy and Domestic Rhetoric
+## Controversy and Domestic Rhetoric
 
 Despite historical success, enabling cooperation and dispute resolution even during times of conflict, confidence in the IWT is threatened by increased water stress, as reflected in tensions over the divisions of shortages, water storage and its effect on downstream flows, and hydropower development. For Pakistan, the most controversial projects include India’s Kishanganga and Ratle hydropower plants, for each of which Pakistan requested arbitration pursuant to the IWT. (Both were later approved.)
 
 However, beyond the technical and legal challenges inherent in a complex river system and treaty, the IWT has also become a target of broader political rhetoric in the domestic politics of both Pakistan and India. Notably, the Modi administration has taken the radical step of calling for the abrogation of the treaty, which some analysts consider a reflection of nationalist politics.
 
-# IWT and the Key Principles of the UN Watercourses Convention
+## IWT and the Key Principles of the UN Watercourses Convention
 
 The UN Watercourses Convention (UNWC), adopted by the UN General Assembly in 1997, is a major framework convention on the governance of non-navigational uses of international watercourses, including water storage and hydropower development.
 
 The UNWC codifies several key principles, reflecting the development of customary international water law and the leading expert opinions of the day in international law. These include:
 
-The principle of equitable and reasonable utilization
-The general obligation of watercourse states to cooperate
-The principle of equitable and reasonable participation
-The obligation not to cause significant harm
+- The principle of equitable and reasonable utilization
+- The general obligation of watercourse states to cooperate
+- The principle of equitable and reasonable participation
+- The obligation not to cause significant harm
 
 Neither Pakistan nor India have signed the UNWC; however, as the most authoritative statement on international watercourse management, it is the chief metric by which to judge the IWT. A brief history provides context for comparison and judgement.
 
