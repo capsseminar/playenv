@@ -17,10 +17,12 @@ tags:
 
 **Cory J. Combs**
 
-SA.680.738: International Water: Issues and Policies
-Professor Winston Yu
+Johns Hopkins SAIS
+Submitted for Course "International Water: Issues and Policies"
+Professor Winston Yu | Senior Water Resources Specialist, World Bank
 March 5, 2018
 Word Count: 1766
+Grade: A
 
 ## Executive Summary
 
@@ -59,7 +61,7 @@ The IWT adheres well to the next two key principles. Article VII recognizes that
 
 Lastly, the obligation not to cause significant harm, while limited by the basis of “unrestricted use,” is still appreciable in Article IV, which affirms commitments to minimize various harms.
 
-# The Baglihar Dispute: Evidence for the IWT’s Continuing Value
+## The Baglihar Dispute: Evidence for the IWT’s Continuing Value
 
 In 2005, Pakistan submitted to the World Bank its claim of a “difference” with India regarding the design of the Baglihar hydropower project, under construction by India on the Chenab river. Annexure D allowed for India’s construction of the dam on the Chenab, a river allocated to Pakistan, provided the dam met several stipulated conditions. The two states disagreed, though, on whether the design met four of these conditions: limitations on the project’s capacity to raise the water level in the operating pool; limitations on maximum pondage; constraints on the spillway height; and constraints on the height of the turbines.
 
@@ -69,7 +71,7 @@ Lack of precedent for what “consultation” among parties during the appointme
 
 The engineer appointed Neutral Expert issued a decision in early 2007, interpreting the IWT’s conditions in light of contemporary technical standards and norms, matching the intentions of the engineers who originally negotiated the terms with due consideration for technological advances. Remarkably, both Pakistan and India responded positively to the results. Salman Salman, Lead Counsel for the World Bank, described Pakistan as viewing the matter as primarily legal in nature, and India as viewing the matter as primarily technical. That both states perceived the decision as a definitive and acceptable resolution testifies to the merit of the process. The Baglihar dispute demonstrated the adaptability and strength of IWT procedures, and Baglihar’s precedent bolsters the IWT dispute resolution mechanism.
 
-# Conclusion: Necessary Modifications to the IWT
+## Conclusion: Necessary Modifications to the IWT
 
 While the IWT has proven one of the world’s most durable international water treaties, and has precedent for adaptation, the IWT has increasingly evident flaws which must be addressed. First, as the UNDP report “Development Advocate Pakistan” states, the IWT “fails to address two issues: the division of shortages in dry years between India and Pakistan, when flows are almost half as compared to wet years, and the cumulative impact of storages on the flows of the River Chenab into Pakistan.”
 
@@ -80,13 +82,12 @@ The IWT, though, has remained remarkably aloof from political trends across its 
 
 Despite political rhetoric, the real underlying catalysts of conflict are climate change and emerging extreme weather patterns, which exacerbate water shortages and risks of water storage. Integrated basin management—lacking in the IWT—is now imperative. The principle of reasonable and equitable utilization must be bolstered. The IWT thus needs amendment. But amendment, even if more politically difficult than abrogation, is by far the best chance to meet India’s and Pakistan’s vital needs.
 
-# References
+## References
 
-Bozdar, Babar Khan, “Violation of Indus Water Treaty?”. Pakistan Observer. http://pakobserver.net/violation-of-indus-water-treaty/
+- Bozdar, Babar Khan, “Violation of Indus Water Treaty?”. Pakistan Observer. http://pakobserver.net/violation-of-indus-water-treaty/
 Salman, Salman M. A., “The Helsinki Rules, the UN Watercourses Convention and the Berlin Rules: Perspectives on International Water Law”. Water Resources Development, Vol. 23, No. 4, 625-640. December 2007.
-Siddiqui, Shawahiq, “UN Watercourses Convention is good for South Asia”. The Third Pole. August 18, 2014. https://www.thethirdpole.net/2014/08/18/un-watercourses-convention-is-good-for-south-asia/
-“Survival of India-Pakistan Indus water treaty appears ‘weak’: UN report.” Hindustan Times. February 2, 2017. https://www.hindustantimes.com/world-news/indus-treaty-great-example-of-conflict-resolution-but-its-survival-appears-weak-says-undp/story-oA3y53x4ijaKkeo0cPJ7lJ.html
-The United Nations, “Convention of the Law of the Non-Navigational Uses of International Watercourses”. April 11. 1997. http://www.un.org/law/cod/watere.htm
-The World Bank, “Fact Sheet: the Indus Waters Treaty 1960 and the World Bank”. August 1, 2017. http://www.worldbank.org/en/region/sar/brief/fact -sheet-the-indus-waters-treaty-1960-and-the-world-bank
-The World Bank, “Indus Waters Treaty—Articles and Annexures”. February 12, 2007. http://web.worldbank.org/WBSITE/EXTERNAL/COUNTRIES/SOUTHASIAEXT/0,,contentMDK:20320047~pagePK:146736~piPK:583444~t heSitePK:223547,00.html
-
+- Siddiqui, Shawahiq, “UN Watercourses Convention is good for South Asia”. The Third Pole. August 18, 2014. https://www.thethirdpole.net/2014/08/18/un-watercourses-convention-is-good-for-south-asia/
+- “Survival of India-Pakistan Indus water treaty appears ‘weak’: UN report.” Hindustan Times. February 2, 2017. https://www.hindustantimes.com/world-news/indus-treaty-great-example-of-conflict-resolution-but-its-survival-appears-weak-says-undp/story-oA3y53x4ijaKkeo0cPJ7lJ.html
+- The United Nations, “Convention of the Law of the Non-Navigational Uses of International Watercourses”. April 11. 1997. http://www.un.org/law/cod/watere.htm
+- The World Bank, “Fact Sheet: the Indus Waters Treaty 1960 and the World Bank”. August 1, 2017. http://www.worldbank.org/en/region/sar/brief/fact -sheet-the-indus-waters-treaty-1960-and-the-world-bank
+- The World Bank, “Indus Waters Treaty—Articles and Annexures”. February 12, 2007. http://web.worldbank.org/WBSITE/EXTERNAL/COUNTRIES/SOUTHASIAEXT/0,,contentMDK:20320047~pagePK:146736~piPK:583444~t heSitePK:223547,00.html
