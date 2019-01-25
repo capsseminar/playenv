@@ -1,9 +1,8 @@
 ---
 layout: post
 title: "The Indus Waters Treaty Controversy"
-excerpt: "Pakistan’s response to the present Indus Waters Treaty (IWT) controversy is guided by consideration of three questions: 1) Does the IWT adequately adhere to the key international watercourse management principles of the UN Watercourses Convention? 2) What lessons should be drawn from the 2005 Baglihar dispute regarding the IWT’s continued efficacy? 3) What do the findings on the above imply for Pakistan’s position regarding the IWT: should it be maintained, modified, or abrogated?"
+excerpt: "In 2005, Pakistan submitted to the World Bank its claim of a “difference” with India regarding the design of the Baglihar hydropower project, under construction by India on the Chenab river."
 image: images/other/IndusRiver_Pakistan.jpg
-
 categories:
   - Research
   - Writing Sample
