@@ -79,6 +79,7 @@ All of this is to say that there are certainly notable procedural differences be
 ## Footnotes
 
 <b id="f1">1</b> Also of interest in discussing fiscal federalism is the Tiebout model, in which people “vote with their feet.” Such is not an option for many in China due to the hukou system; as such, the question arises, can the model really apply to China? Oates argues that federal decentralization as a model is not dependent on the Tiebout model (Oates 1124). However, I would suggest that there could also be such a result for firms, if not people, “voting with their feet,” e.g. firms opening in special economic zones, such as Shenzhen. [↩](#a1)
+
 <b id="f2">2</b> It has resulted also in another issue that lies beyond the scope of this paper: massive local debt build-up. Local debt, owed to the central banks, is now a national ball and chain and a massive source of macroeconomic risk. Fiscal federalism can be non-progressive (Oates 1128) but also less well controlled and open to adverse incentives, such as China demonstrates in the skewed loan incentives that have resulted in current unmanageable debt loads. [↩](#a2)
 
 ## References (To be completed)
