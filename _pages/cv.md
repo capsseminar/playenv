@@ -1,11 +1,9 @@
 ---
 layout: cv
-title: CV
+title: Education & Experience
 description: "CV"
 permalink: /cv.html
 ---
-
-# CV
 
 ## Education
 
