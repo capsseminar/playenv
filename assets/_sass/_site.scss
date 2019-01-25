@@ -183,14 +183,10 @@ canvas {
     vertical-align: top;
     float: left;
     background-size: 100% auto !important;
-    &:nth-child(8n+1),
-    &:nth-child(8n+2) {
+    &:nth-child(5n+1),
+    &:nth-child(5n+2) {
       width: 50%;
-      height: 70%;
-    }
-    &:nth-child(8n+6) {
-      width: calc(100%/3 + 100%/3);
-      height: 100%;
+      height: auto;
     }
     a {
       border: 30px solid transparent;
