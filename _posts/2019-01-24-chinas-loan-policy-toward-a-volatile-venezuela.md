@@ -16,9 +16,9 @@ tags:
 China’s Loan Policy Toward a Volatile Venezuela:<br/>
 Balancing Economic and Energy Interests with Noninterference
 
-[Edited for use as a writing sample November 26, 2018]
-Cory J. Combs
+**Cory J. Combs**
 
+Johns Hopkins SAIS
 Submitted for Course "Chinese Foreign Policy"<br/>
 Professor David M. Lampton | JHU SAIS Hyman Professor and Director of SAIS-China and China Studies<br/>
 October 23, 2017 (Edited November 26, 2018)<br/>
@@ -29,7 +29,7 @@ Grade: A
 
 The Venezuelan crisis challenges China’s commitment to noninterference; conversely, it could provide China an opportunity to demonstrate global leadership, should it intervene in Maduro’s destabilizing activities. Ultimately, the balance of China’s interests will likely result in hedging of its oil-backed loans to Venezuela, but without their discontinuation. China will try to avoid appearances of political interference, eager to prove its noninterference as a source of legitimacy with developing countries, many of which it aims to partner with for the Belt and Road Initiative. Further, the Party under Xi Jinping will not pursue ideological kinship with Maduro, and while it will not intentionally hasten his fall, nor will it prevent it. The ideal scenario for China will be for loans to keep Maduro’s regime minimally viable until nonfinancial forces induce regime change.
 
-## Background
+## History and Development
 
 In 1999, Hugo Chavez and Jiang Zemin established a strategic partnership that would guide the massive expansion of engagement under Hu Jintao from 2002 to 2012. China’s expanded engagement centered around oil-backed loans which bolstered China’s energy supply security and grounded China’s efforts to increase its presence in Latin America.
 
@@ -59,7 +59,7 @@ Given Venezuela’s highly volatile political situation, China has quietly begun
 
 ## Formation of China’s Venezuela Policy
 
-### General Framework
+### Framework
 
 China’s foreign policy is the result of a complex confluence of actors and forces. The following points provide the core framework for analysis and subsequent recommendations:
 
@@ -71,7 +71,7 @@ The overall centralized hierarchical structure of China’s governance, coupled 
 
 Thus, the hierarchical structure and multilayered bureaucratic web (3) enable gaps in which the bargaining processes can take place (2) among various leading actors (1); and so, in broad strokes, China’s policies are forged.
 
-### Influences on China’s Venezuela Policy
+### Key Influences on China’s Venezuela Policy
 
 Chinese policy toward Venezuela is shaped by forces in three distinct environments: the Chinese domestic environment, the Venezuelan domestic environment, and the international environment.
 
@@ -89,7 +89,7 @@ Table 1: Actor Interests and Preferences Regarding Venezuela
 
 China alone has significant interests in both expanding and ceasing loans. So far it has stopped increasing, but generally maintained, its funding. Ultimately, how China changes its loans to Venezuela depends on two factors: how Xi Jinping and the rest of the CCP’s top leadership judge the balance of forces summarized in Table 1, and the outcomes of the bargaining process between CCP leaders, the CDB, the Ex-Im Bank, and the lesser bureaucratic elements at play.
 
-## Summative Analysis
+## Final Analysis
 
 Matt Ferchen summarizes China’s role in the Venezuelan crisis, and how it might correct course:
 
