@@ -7,7 +7,7 @@
         {% assign class = "" %}
     {% when 2 %}
         {% assign class = "half" %}
-    {% when 3 %}
+    {% when 4 %}
         {% assign class = "third" %}
     {% else %}
         {% assign class = "" %}
