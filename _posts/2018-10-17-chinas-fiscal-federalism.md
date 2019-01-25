@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "China's Fiscal Federalism"
-excerpt: "Excerpt goes here."
+excerpt: "How can a state that suffers from some of the world’s most pressing environmental problems also be a world leader in clean energy?"
 image: images/travel/IMG_20160609_150008.jpg
 categories:
   - Commentary
