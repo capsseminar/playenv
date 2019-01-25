@@ -1,6 +1,6 @@
 ---
 layout: post
-title: China's Fiscal "Federalism"
+title: "China's Fiscal Federalism"
 excerpt: "Excerpt goes here."
 image: images/travel/IMG_20160609_150008.jpg
 categories:
