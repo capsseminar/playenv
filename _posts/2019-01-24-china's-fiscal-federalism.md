@@ -2,7 +2,7 @@
 layout: post
 title: China's Fiscal "Federalism"
 excerpt: "Excerpt goes here."
-image: images/
+image: images/other/ShanxiMayor_Inspection.jpg
 categories:
   - a
   - b
