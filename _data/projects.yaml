@@ -13,9 +13,9 @@
   image: images/yale-center-beijing/FacilitiesGallery_2.png
   completed: true
 
-- title: MEE Budget Reconciliation
-  url: https://triviumchina.com/
-  image: images/data-viz/MEE_Financial_Overview.png
+- title: 
+  url: https://centerbeijing.yale.edu/
+  image: images/yale-center-beijing/HerVillageLaunch.jpg
   completed: true
 
 - title: 
@@ -23,9 +23,9 @@
   image: images/yali/Gaokao.png
   completed: true
 
-- title: 
-  url: https://centerbeijing.yale.edu/
-  image: images/yale-center-beijing/HerVillageLaunch.jpg
+- title: MEE Budget Reconciliation
+  url: https://triviumchina.com/
+  image: images/data-viz/MEE_Financial_Overview.png
   completed: true
 
 - title: 
