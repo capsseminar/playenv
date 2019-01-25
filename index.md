@@ -3,7 +3,7 @@ layout: home
 ---
 ## Asia, Energy, and Environmental Governance
 
-With substantial experience overseas in Europe, Asia, and South America, and a background in both the hard and social sciences, I aim always to ask: through what further perspectives can we better understand the issues at hand?
+With substantial intercultural experience and a background in both the hard and social sciences, I aim always to ask: through what further perspectives can we better understand the issues at hand?
 
 ### I am currently looking for career opportunities with a start date of June 2019 or after.
-This site features select writing samples and projects, along with my long-form CV; feel free to explore and drop me a note via the email icon or any other service!
+This site features recent writing samples and projects, along with my long-form CV. Please feel free to explore, and drop me a note via the email icon (or any other service)!
