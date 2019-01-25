@@ -13,8 +13,8 @@ tags:
   - Venezuela
 ---
 
-#China’s Loan Policy Toward a Volatile Venezuela:<br/>
-#Balancing Economic and Energy Interests with Noninterference
+# China’s Loan Policy Toward a Volatile Venezuela:<br/>
+# Balancing Economic Interests and Energy Security with Noninterference
 
 **Cory J. Combs**
 
