@@ -1,7 +1,7 @@
 ---
-layout: page
+layout: cv
 title: CV
-description: "Work History"
+description: "CV"
 permalink: /cv.html
 ---
 
