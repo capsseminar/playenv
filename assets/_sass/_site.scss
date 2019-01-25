@@ -139,12 +139,34 @@ canvas {
   }
 }
 
+.cv-menu-icon {
+  position: absolute;
+  top: 30px;
+  right: 150px;
+  width: 20px;
+  height: 25px;
+  border: 2px solid $gray;
+  background: $white;
+  &:hover {
+    border-color: $green;
+    &:before,
+    &:after {
+      border-color: $green;
+    }
+  }
+}
+
+.cv-link,
 .posts-link,
 .projects-link {
   position: absolute;
   top: 73px;
   font-size: 12px;
   color: darken($white, 40);
+}
+
+.cv-link {
+  right: 150px;
 }
 
 .posts-link {
