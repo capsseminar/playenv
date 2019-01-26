@@ -8,12 +8,15 @@ permalink: /cv.html
 
 ### Like many, I have spent my life to date working to make ends meet. Like too few, I have had incredible fortune in securing educational opportunities and the support of mentors. Now I pursue a new future, in which my work helps achieve greater ends.
 
+<br />
 <hr />
+<br />
 
 **I am currently looking for career opportunities in research and consulting with a start date of June 2019 or after.**
 
 Please be in touch with any questions at all; I look forward to discussing!
 
+<br />
 <hr />
 
 ## Education
@@ -34,7 +37,7 @@ Please be in touch with any questions at all; I look forward to discussing!
 
 ## Study Abroad
 
-**Johns Hopkins School of Advanced International Studies | Yunnan Province, China; Ho Chi Minh City and Can Tho, Vietnam**<br />
+**Johns Hopkins SAIS | Yunnan Province, China; Ho Chi Minh City and Can Tho, Vietnam**<br />
 **Research Trip (Transboundary Water Governance) | January 2018**
 * Competitively selected to conduct field research funded by the SAIS China Studies and Energy, Resources and Environment programs
 * Co-organized and co-authored final research report on intergovernmental Mekong (Lancang) River governance and climate adaptation
@@ -43,7 +46,7 @@ Please be in touch with any questions at all; I look forward to discussing!
 **Mandarin Chinese | June - August 2014**
 * Study funded by the Yale-China Association as part of the Yale-China Teaching Fellowship
 
-**Universidad de Chile Santiago, Chile**<br />
+**Universidad de Chile | Santiago, Chile**<br />
 **Introduction to Observational Astrophysics | May - August 2011**
 * Funded by Yale University’s International Summer Award for reseach
 * Conducted foundational studies and research at seven observatories in Santiago and across the Atacama Desert
@@ -85,8 +88,8 @@ Please be in touch with any questions at all; I look forward to discussing!
 **Assistant to the Editor-in-Chief** *(2-4 hours weekly)* | **August 2018 - present**
 * Solicit reviews and manage peer review process for submitted research manuscripts concerning continental Asia
 
-**Trivium China	| Washington, D.C. (remote to Beijing, China)**<br />
-**Intern (Chinese Legislation and Politics Research)** *(20-30 hours weekly)* |	**June - August 2018**
+**Trivium China	| Washington, D.C. (remote to London, UK and Beijing, China)**<br />
+**Intern (Chinese Legislation and Politics Research)** *(25-30 hours weekly)* |	**June - August 2018**
 * Compiled and led translation of database of all 204 Communist Party Central Committee Members’ histories
 * Provided English- and Chinese-language research and policy tracking support to co-founder Trey McArver
 * Translated daily Chinese-language policy monitoring updates for the U.S. Chamber of Commerce
@@ -114,7 +117,7 @@ Please be in touch with any questions at all; I look forward to discussing!
 * Organized and hosted weekly public programs on a range of topics related to civil society in China and the U.S.
 
 ## Leadership
-**Academic Chair**, SAIS Asia Conference (2019) | November 2018 - April 2019<br />
+**Academic Chair**, SAIS Asia Conference (2019) | January - April 2019<br />
 **Vice President**, Computational Applications to Policy and Strategy (CAPS) | January - May 2019<br />
 **Organizer**, Yale-China Inaugural Washington, D.C. Film Fundraiser | June - July 2018<br />
 **Student Coordinator**, SAIS Research Trip on Transboundary Water Governance | October 2017 - March 2018<br />
