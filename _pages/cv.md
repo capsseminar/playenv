@@ -85,13 +85,13 @@ Please be in touch with any questions at all; I look forward to discussing!
 
 <br />
 **SAIS Review of International Affairs | Washington, D.C.**<br />
-**Web Editor (Editorial Board)** *(8-10 hours weekly)* | **July 2018 - June 2019**
+**Editorial Board (Web Editor)** *(8-10 hours weekly)* | **July 2018 - June 2019**
 * Established the academic journal’s first comprehensive online strategy; designed and implemented a full site redesign; instituted an Assistant Editor program to expand volume of publications, selecting two of 24 applicants
 * Review, edit, and publish academic articles biweekly, working with authors from research institutes, think tanks, the U.S. military, and graduate schools across the world; edit semiannual print edition articles
 
 <br />
 **Johns Hopkins SAIS International Economics Department | Washington, D.C.**<br />
-**Teaching Assistant, Accelerated Microeconomics** *(4-7 hours weekly)* | **September - December 2018**
+**Teaching Assistant (Accelerated Microeconomics)** *(4-7 hours weekly)* | **September - December 2018**
 * Created and taught supplementary course materials for Professor Heiwai Tang’s “Accelerated Microeconomics”
 * Proctored exams, graded coursework, held weekly study sessions and ad hoc individual tutoring sessions
 
@@ -102,7 +102,7 @@ Please be in touch with any questions at all; I look forward to discussing!
 
 <br />
 **Trivium China	| Washington, D.C. (remote to Beijing, China)**<br />
-**Chinese Legislation and Politics Research Intern** *(20-30 hours weekly)* |	**June - August 2018**
+**Intern (Chinese Legislation and Politics Research)** *(20-30 hours weekly)* |	**June - August 2018**
 * Compiled and led translation of database of all 204 Communist Party Central Committee Members’ histories
 * Provided English- and Chinese-language research and policy tracking support to co-founder Trey McArver
 * Translated daily Chinese-language policy monitoring updates for the U.S. Chamber of Commerce
@@ -142,7 +142,7 @@ Please be in touch with any questions at all; I look forward to discussing!
 **Editor**, SAIS Asia Conference | November 2017 - February 2018<br />
 **Founder**, Yali-Yale Forum for International Research and Exchange | December 2015 - June 2016<br />
 **Freshman Counselor**, Yale University | August 2013 - May 2014<br />
-**Chair**, Yale College Council Science and Engineering Subcommittee | August 2012 - August 2013<br />
+**Chair**, Yale College Council Science and Engineering Subcommittee | August 2012 - August 2013
  
 <br />
 ## Travel
@@ -160,8 +160,8 @@ Please be in touch with any questions at all; I look forward to discussing!
 * Hong Kong
 * Chile
 * United Kingdom
- 
- 
+
+<br />
 ## Select Interests
 * Machine learning
 * Woodworking
