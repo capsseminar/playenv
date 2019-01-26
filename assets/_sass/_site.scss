@@ -550,7 +550,7 @@ canvas {
   }
 }
 
-.inner-post {
+.inner-post, .inner-cv {
   h1 {
     font-size: 70px;
     line-height: 70px;
@@ -597,6 +597,24 @@ canvas {
         margin-top: 20px;
       }
     }
+  }
+}
+
+.inner-cv {
+  p, small, li {
+    font-size: 15px;
+    padding: 40px;
+    margin-top: 8px;
+    margin-bottom: 8px;
+  }
+  h1,
+  h2,
+  h3,
+  h4,
+  h5,
+  h6 {
+    margin-top: 40px;
+    margin-bottom: 20px;
   }
 }
 
