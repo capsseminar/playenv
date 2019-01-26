@@ -6,7 +6,7 @@ image: images/travel/20180123_204720.jpg
 permalink: /cv.html
 ---
 
-Like many, I have spent my life to date working to make ends meet. Like too few, I have had incredible fortune in securing educational opportunities and the support of mentors. Now I pursue a new future, in which my work helps achieve greater ends.
+Like many, I have spent my life to date working to make ends meet. Like too few, I have been blessed in securing educational opportunities and the chances they afford to change one's station. Now I pursue a future in which my work helps to achieve greater ends.
 
 <br />
 <hr />
