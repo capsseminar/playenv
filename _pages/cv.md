@@ -2,7 +2,7 @@
 layout: cv
 title: Education & Experience
 description: "CV"
-image: images/self/CombsCory2.jpg
+image: images/travel/20180123_204720.jpg
 permalink: /cv.html
 ---
 
