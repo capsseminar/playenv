@@ -6,11 +6,11 @@ image: images/travel/20180123_204720.jpg
 permalink: /cv.html
 ---
 
-<style="font-size: 18;">Like many, I have spent my life to date working to make ends meet. Like too few, I have had incredible fortune in securing educational opportunities and the support of mentors. Now I pursue a new future, in which my work helps achieve greater ends.</style>
+### Like many, I have spent my life to date working to make ends meet. Like too few, I have had incredible fortune in securing educational opportunities and the support of mentors. Now I pursue a new future, in which my work helps achieve greater ends.
 
 <hr />
 
-#### I am currently looking for career opportunities in research and consulting with a start date of June 2019 or after.
+**I am currently looking for career opportunities in research and consulting with a start date of June 2019 or after.**
 
 Please be in touch with any questions at all; I look forward to discussing!
 
