@@ -601,10 +601,15 @@ canvas {
 }
 
 .inner-cv {
-  p, small, li {
+  p {
     font-size: 15px;
-    margin-top: 8px;
-    margin-bottom: 8px;
+    margin-top: 15px;
+    margin-bottom: 0px;
+  }
+  small, li {
+    font-size: 15px;
+    margin-top: 6px;
+    margin-bottom: 0px;
   }
   h1,
   h2,
@@ -613,7 +618,7 @@ canvas {
   h5,
   h6 {
     margin-top: 40px;
-    margin-bottom: 20px;
+    margin-bottom: 0px;
   }
 }
 
