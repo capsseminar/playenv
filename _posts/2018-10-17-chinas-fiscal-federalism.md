@@ -13,7 +13,7 @@ tags:
   - China
 ---
 
-## China’s Fiscal “Federalism”
+### China’s Fiscal “Federalism”
 
 **Cory J. Combs**
 
