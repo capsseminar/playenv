@@ -19,11 +19,6 @@
   completed: true
 
 - title: 
-  url: http://www.yali.hn.cn/
-  image: images/yali/Gaokao.png
-  completed: true
-
-- title: 
   url: https://triviumchina.com/
   image: images/data-viz/MEE_Financial_Overview.png
   completed: true
@@ -36,9 +31,4 @@
 - title: 
   url: https://www.sais-jhu.edu/sites/default/files/JHU_SAIS_Transboundary_Water_Governance_in_the_MRB.pdf
   image: images/sais/mekong_report.PNG
-  completed: true
-
-- title: 
-  url: #
-  image: images/travel/mmexport1465739901607.jpg
   completed: true
