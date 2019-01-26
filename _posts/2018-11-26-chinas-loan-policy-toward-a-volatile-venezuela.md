@@ -14,11 +14,11 @@ tags:
 ---
 
 ## China’s Loan Policy Toward a Volatile Venezuela:
-## Balancing Economic Interests and Energy Security with Noninterference
+### Balancing Economic Interests and Energy Security with Noninterference
 
 **Cory J. Combs**
 
-Johns Hopkins SAIS
+Johns Hopkins SAIS<br/>
 Submitted for Course "Chinese Foreign Policy"<br/>
 Professor David M. Lampton | JHU SAIS Hyman Professor and Director of SAIS-China and China Studies<br/>
 October 23, 2017 (Edited November 26, 2018)<br/>
