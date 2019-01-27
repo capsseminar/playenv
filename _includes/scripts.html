@@ -1,5 +1,6 @@
 <!-- JS -->
 <script src="{{ site.url }}/assets/js/main.min.js"></script>
+
 {% if site.google-analytics %}
 <!-- Asynchronous Google Analytics snippet -->
 <script>
@@ -9,11 +10,12 @@
   })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
   ga('create', '{{ site.google-analytics }}', 'auto');  
   ga('require', 'linkid', 'linkid.js');
-  ga('send', 'pageview');
-  
+  ga('send', 'pageview'); 
+</script>
+{% endif %}
+
+<script>
   $('span.projects-item-title').onHover(function(){
     $('span').fadeOut();
   });
-  
 </script>
-{% endif %}
