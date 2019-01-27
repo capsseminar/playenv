@@ -782,13 +782,11 @@ canvas {
 
 .site-credits a {
   position: absolute;
-  bottom: 5px;
-  right: 10px;
-  width: 100%;
+  bottom: 15px;
+  right: 25px;
   margin: 0 auto;
   font-size: 16px;
-  color: #eee;
-  text-align: center;
+  color: #b9b9b9;
   &:hover {
     color: $green;
   }
