@@ -24,8 +24,8 @@ Submitted for Course "International Water: Issues and Policies"<br/>
 Professor Winston Yu | Senior Water Resources Specialist, World Bank<br/>
 March 5, 2018<br/>
 Word Count: 1766<br/>
-Grade: A
-<a href="https://coryjcombs.github.io/images/sais/IWTBrief.pdf">Click here</a> to download the original submission as a PDF.
+Grade: A<br/>
+<a href="https://coryjcombs.github.io/images/sais/IWTBrief.pdf" target="_blank">Click here</a> to download the original submission as a PDF.
 
 ## Executive Summary
 
