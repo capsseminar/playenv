@@ -96,7 +96,7 @@ Salman, Salman M. A., “The Helsinki Rules, the UN Watercourses Convention and 
 
 
 
-## The Original Document as Submitted
+## Original Document as Submitted
 
 <object data="https://coryjcombs.github.io/images/sais/IWTBrief.pdf" type="application/pdf" width="90%">
     <embed src="https://coryjcombs.github.io/images/sais/IWTBrief.pdf">
