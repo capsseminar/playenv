@@ -25,6 +25,7 @@ Professor Winston Yu | Senior Water Resources Specialist, World Bank<br/>
 March 5, 2018<br/>
 Word Count: 1766<br/>
 Grade: A
+<a href="https://coryjcombs.github.io/images/sais/IWTBrief.pdf">Click here</a> to download the original submission as a PDF.
 
 ## Executive Summary
 
@@ -93,9 +94,3 @@ Salman, Salman M. A., “The Helsinki Rules, the UN Watercourses Convention and 
 - The United Nations, “Convention of the Law of the Non-Navigational Uses of International Watercourses”. April 11. 1997. http://www.un.org/law/cod/watere.htm
 - The World Bank, “Fact Sheet: the Indus Waters Treaty 1960 and the World Bank”. August 1, 2017. http://www.worldbank.org/en/region/sar/brief/fact -sheet-the-indus-waters-treaty-1960-and-the-world-bank
 - The World Bank, “Indus Waters Treaty—Articles and Annexures”. February 12, 2007. http://web.worldbank.org/WBSITE/EXTERNAL/COUNTRIES/SOUTHASIAEXT/0,,contentMDK:20320047~pagePK:146736~piPK:583444~t heSitePK:223547,00.html
-
-
-
-## Original Document as Submitted
-
-<a href="https://coryjcombs.github.io/images/sais/IWTBrief.pdf">Click here</a>  to download the original PDF submission.
