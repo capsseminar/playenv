@@ -20,6 +20,6 @@ This piece was compiled using a LaTex variant known as XeLaTex, and used a custo
 
 <object data="https://coryjcombs.github.io/images/sais/TA_Session_1_Notes.pdf" type="application/pdf" width="90%">
     <embed src="https://coryjcombs.github.io/images/sais/TA_Session_1_Notes.pdf">
-        <p>This browser seems to not support PDFs. To view this item, please <a href="https://coryjcombs.github.io/images/sais/TA_Session_1_Notes.pdf">click here to download the PDF.</a></p>
+        <p>This browser seems to not support PDFs. To view this item, please <a href="https://coryjcombs.github.io/images/sais/TA_Session_1_Notes.pdf">click here to download the PDF</a>.</p>
     </embed>
 </object>
