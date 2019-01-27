@@ -15,7 +15,11 @@
 {% endif %}
 
 <script>
-  $('.projects-item-a').hover(function(){
-    $('.projects-item-title').hide();
+  $(document).ready(function(){
+    $('.projects-item-a').hover(function() {
+      $('.projects-item-title').fadeIn(500);
+    }, function() {
+      $('.projects-item-title').fadeOut(500);
+    });
   });
 </script>
