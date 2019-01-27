@@ -7,4 +7,4 @@ Having lived a life between cultures and with a background in both the hard and 
 
 **I am currently looking for career opportunities with a start date of June 2019 or after.**
 
-This site features select writing samples and projects, along with my long-form CV. Please feel free to explore, and drop me a note via the email icon (or any other service)!
+This site features select writing samples and projects, along with my long-form CV. The links at the left include websites I manage, alongside my email and online profiles. Please take a look around, and drop me a note via the email icon (or any other service)!
