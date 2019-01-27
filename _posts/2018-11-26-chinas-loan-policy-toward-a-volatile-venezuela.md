@@ -83,8 +83,6 @@ In the international environment, we must consider: China’s intentions in Lati
 
 These environments, the key actors, their core interests and estimates of their preferred outcomes are summarized in Table 1:
 
-Table 1: Actor Interests and Preferences Regarding Venezuela
-
 <img src="http://coryjcombs.github.io/images/sais/China-Venezuela-Table1.PNG" alt="Table 1" />
 
 China alone has significant interests in both expanding and ceasing loans. So far it has stopped increasing, but generally maintained, its funding. Ultimately, how China changes its loans to Venezuela depends on two factors: how Xi Jinping and the rest of the CCP’s top leadership judge the balance of forces summarized in Table 1, and the outcomes of the bargaining process between CCP leaders, the CDB, the Ex-Im Bank, and the lesser bureaucratic elements at play.
