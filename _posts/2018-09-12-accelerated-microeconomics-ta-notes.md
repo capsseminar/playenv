@@ -18,4 +18,4 @@ It may be something of an irregular writing sample, but teaching has long been a
 
 This document was compiled using a LaTex variant known as XeLaTex, and used a custom script I created as practice for upcoming projects.
 
-<a href="https://coryjcombs.github.io/images/sais/TA_Session_1_Notes.pdf">Please click here to view the PDF.</a>.
+<a href="https://coryjcombs.github.io/images/sais/TA_Session_1_Notes.pdf" target="_blank">Please click here to view the PDF.</a>.
