@@ -781,11 +781,16 @@ canvas {
 }
 
 .site-credits {
+  position: absolute;
+  bottom: 5px;
   margin: 0 auto;
-  font-size: 12px;
-  color: #999;
+  font-size: 14px;
+  color: #686868;
   text-align: center;
   bottom: 5px;
+  a:hover {
+    color: $green;
+  }
 }
 
 // Media queries
