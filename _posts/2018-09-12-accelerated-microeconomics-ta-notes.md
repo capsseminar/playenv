@@ -10,7 +10,7 @@ tags:
   - Economics
 ---
 
-<a href="https://coryjcombs.github.io/images/sais/TA_Session_1_Notes.pdf" target="_blank">Please click here to view this document.</a>.
+<a href="https://coryjcombs.github.io/images/sais/TA_Session_1_Notes.pdf" target="_blank">Please click here to view this document</a>.
 
 While considering what to post as my writing samples, I revisited the course materials I wrote as the teaching assistant for Johns Hopkins SAIS's Accelerated Microeconomics course. I had taken the course the year prior, as my first formal economics course. The "accelerated" in the title indicated the level of mathematics - having spoken with the economics department about the course options, I elected to try the accelerated version as a means of more deeply engaging with the source material from the start. It was a fantastic foundation, and I have exclusively taken the accelerated versions of my graduate economics courses since.
 
