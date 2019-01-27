@@ -13,6 +13,8 @@ tags:
   - Pakistan
 ---
 
+
+
 ## The Indus Waters Treaty Controversy
 
 **Cory J. Combs**
@@ -91,3 +93,13 @@ Salman, Salman M. A., “The Helsinki Rules, the UN Watercourses Convention and 
 - The United Nations, “Convention of the Law of the Non-Navigational Uses of International Watercourses”. April 11. 1997. http://www.un.org/law/cod/watere.htm
 - The World Bank, “Fact Sheet: the Indus Waters Treaty 1960 and the World Bank”. August 1, 2017. http://www.worldbank.org/en/region/sar/brief/fact -sheet-the-indus-waters-treaty-1960-and-the-world-bank
 - The World Bank, “Indus Waters Treaty—Articles and Annexures”. February 12, 2007. http://web.worldbank.org/WBSITE/EXTERNAL/COUNTRIES/SOUTHASIAEXT/0,,contentMDK:20320047~pagePK:146736~piPK:583444~t heSitePK:223547,00.html
+
+
+
+## The Original Document as Submitted
+
+<object data="https://coryjcombs.github.io/images/sais/IWTBrief.pdf" type="application/pdf" width="90%">
+    <embed src="https://coryjcombs.github.io/images/sais/IWTBrief.pdf">
+        <p>This browser seems to not support PDFs. To view this item, please <a href="https://coryjcombs.github.io/images/sais/IWTBrief.pdf">click here to download the PDF.</p>
+    </embed>
+</object>
