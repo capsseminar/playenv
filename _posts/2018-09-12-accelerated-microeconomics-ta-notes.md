@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Accelerated Microeconomics: TA Session 1 Notes"
+title: "Accelerated Microeconomics: Lesson Notes"
 excerpt: "Utility: A general measure of welfare. Not an actual number (no one says “I’m at happiness level 7today!”)..."
 image: images/travel/IMG_20160825_181820.jpg
 categories:
@@ -18,7 +18,7 @@ It may be something of an irregular writing sample, but teaching has long been a
 
 This piece was compiled using a LaTex variant known as XeLaTex, and used a custom script I created as practice for upcoming projects.
 
-<object data="https://coryjcombs.github.io/images/sais/TA_Session_1_Notes.pdf" type="application/pdf" width="90%" height="700px">
+<object data="https://coryjcombs.github.io/images/sais/TA_Session_1_Notes.pdf" type="application/pdf" width="90%">
     <embed src="https://coryjcombs.github.io/images/sais/TA_Session_1_Notes.pdf">
         <p>This browser seems to not support PDFs. To view this item, please <a href="https://coryjcombs.github.io/images/sais/TA_Session_1_Notes.pdf">click here to download the PDF.</p>
     </embed>
