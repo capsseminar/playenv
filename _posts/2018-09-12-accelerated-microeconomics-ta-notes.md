@@ -16,10 +16,6 @@ With this experience, I encouraged incoming peers less confident in mathematics 
 
 It may be something of an irregular writing sample, but teaching has long been a passion and a major component of my experience. For this reason, I believe this sample, while intentionally far less formal than typical, is a relevant representation of one means through which I engage and share knowledge.
 
-This piece was compiled using a LaTex variant known as XeLaTex, and used a custom script I created as practice for upcoming projects.
+This document was compiled using a LaTex variant known as XeLaTex, and used a custom script I created as practice for upcoming projects.
 
-<object data="https://coryjcombs.github.io/images/sais/TA_Session_1_Notes.pdf" type="application/pdf" width="90%">
-    <embed src="https://coryjcombs.github.io/images/sais/TA_Session_1_Notes.pdf">
-        This browser seems to not support PDFs. To view this item, please <a href="https://coryjcombs.github.io/images/sais/TA_Session_1_Notes.pdf">click here to download the PDF</a>.
-    </embed>
-</object>
+<a href="https://coryjcombs.github.io/images/sais/TA_Session_1_Notes.pdf">Please click here to view the PDF.</a>.
