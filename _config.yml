@@ -1,7 +1,7 @@
 # Site
-title: Cory J. Combs
-description: Research. Translation. Explanation.
-url: https://coryjcombs.github.io
+title: PlayEnv
+description: Autonomy reinvented.
+url: https://playenv.github.io
 logo: Logo_white.png                        # Site logo
 locale: en_US
 
@@ -30,7 +30,7 @@ sass:
 
 # Social Links
 email:              cory.j.combs@outlook.com
-website:            www.saisreview.org
+website:            www.google.org
 caps:               github.com/SAIS-S2S-Technology/Roadmap/blob/master/CAPS/CAPS_course_website.md
 #google.plus:       username
 twitter:            coryjcombs
