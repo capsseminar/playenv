@@ -86,14 +86,14 @@ canvas {
     }
   }
   &:hover {
-    border-color: $green;
+    border-color: $almond;
     &:before {
-      border-color: $green;
+      border-color: $almond;
     }
     span {
-      border-color: $green;
+      border-color: $almond;
       &:before {
-        border-color: $green;
+        border-color: $almond;
       }
     }
   }
@@ -131,10 +131,10 @@ canvas {
     background: $white;
   }
   &:hover {
-    border-color: $green;
+    border-color: $almond;
     &:before,
     &:after {
-      border-color: $green;
+      border-color: $almond;
     }
   }
 }
@@ -148,10 +148,10 @@ canvas {
   border: 2px solid $gray;
   background: $white;
   &:hover {
-    border-color: $green;
+    border-color: $almond;
     &:before,
     &:after {
-      border-color: $green;
+      border-color: $almond;
     }
   }
 }
@@ -396,7 +396,7 @@ canvas {
         left: 0;
         right: 0;
         bottom: 0;
-        background: $green;
+        background: $almond;
         -webkit-transform: scaleY(0);
         transform: scaleY(0);
         -webkit-transform-origin: 50% 100%;
@@ -463,7 +463,7 @@ canvas {
       -ms-transform: none;
       -o-transform: none;
       transform: none;
-      background: $green;
+      background: $almond;
       left: 0;
       width: 200px;
     }
@@ -583,7 +583,7 @@ canvas {
       left: 0;
       right: 0;
       bottom: 0;
-      background: $green;
+      background: $almond;
       -webkit-transform: scaleY(0);
       transform: scaleY(0);
       -webkit-transform-origin: 50% 100%;
@@ -828,7 +828,7 @@ canvas {
   font-size: 16px;
   color: #b9b9b9;
   &:hover {
-    color: $green;
+    color: $almond;
   }
 }
 
@@ -987,7 +987,7 @@ canvas {
       border-radius: 0 4px 4px 0;
     }
     &:hover {
-      background-color: $green;
+      background-color: $almond;
       color: $white !important;
     }
     &.disabled {
