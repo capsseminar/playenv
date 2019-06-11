@@ -1,5 +1,5 @@
 # Site
-title: PlayEnv
+title: 
 description: Autonomy reinvented.
 url: https://capsseminar.github.io/playenv.github.io/
 logo: Logo_white.png                        # Site logo
@@ -29,15 +29,15 @@ sass:
 #google-analytics: UA-XXXXX-Y
 
 # Social Links
-email:              cory.j.combs@outlook.com
-website:            www.google.org
-caps:               github.com/SAIS-S2S-Technology/Roadmap/blob/master/CAPS/CAPS_course_website.md
+#email:              cory.j.combs@outlook.com
+#website:            www.google.org
+#caps:               github.com/SAIS-S2S-Technology/Roadmap/blob/master/CAPS/CAPS_course_website.md
 #google.plus:       username
-twitter:            coryjcombs
+#twitter:            coryjcombs
 #facebook:          username
-github:             coryjcombs
+#github:             coryjcombs
 #stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
-linkedin:           cory-combs
+#linkedin:           cory-combs
 #xing:              username
 #instagram:         username
 #lastfm:            username
@@ -46,7 +46,7 @@ linkedin:           cory-combs
 #foursquare:        username
 #steam:             username
 #dribbble:          username
-youtube:            UCRwXjuJw-9tVLymBj1zgVlQ
+#youtube:            UCRwXjuJw-9tVLymBj1zgVlQ
 #soundcloud:        username
 #weibo:             username
 #flickr:            username
