@@ -263,7 +263,7 @@ canvas {
         -o-transform: translate(-50%, -50%);
         transform: translate(-50%, -50%);
         font-size: 30px;
-        color: $white;
+        color: $darkgray;
         padding-right: 10px;
         white-space: normal;
         text-align: center;
@@ -424,14 +424,14 @@ canvas {
         display: inline-block;
         font-size: 1.3em;
         padding: 0.3em 0.35em;
-        color: $white;
+        color: $darkgray;
       }
     }
   }
 }
 
 .main-info {
-  color: $white;
+  color: $darkgray;
   h1 {
     font-weight: bold;
     letter-spacing: 1px;
@@ -507,7 +507,7 @@ canvas {
   position: absolute;
   bottom: 50px;
   left: 50px;
-  color: rgba($white, 0.6);
+  color: rgba($darkgray, 0.6);
   -ms-word-wrap: break-word;
   word-wrap: break-word;
   em {
@@ -601,7 +601,7 @@ canvas {
       }
     }
     > a {
-      color: $white;
+      color: $darkgray;
     }
   }
 }
@@ -716,7 +716,7 @@ canvas {
   .tags > li {
     background: none;
     box-shadow: 0 0 1px rgba($white, 0.4);
-    color: $white;
+    color: $darkgray;
     font-size: 15px;
   }
   .section-line {
